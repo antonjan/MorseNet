@@ -9,6 +9,7 @@ messages from raw audio data.pip3 install --upgrade tensorflow
 
 ## install the following
     $ pip3 install --upgrade tensorflow
+    $ tf_upgrade_v2 --infile ./tensorflow_lstm_ctc_train.py --outfile ./tensorflow_lstm_ctc_traini_v2.py
 
 Currently two of the Python scripts are useful:
 
