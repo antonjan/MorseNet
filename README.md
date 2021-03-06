@@ -5,7 +5,10 @@ A neural network research project.
 This repository contains experimental code. The goal of this project is 
 to investigate the possibility of using recurrent neural networks and 
 connectionist temporal classification (CTC) for decoding morse code 
-messages from raw audio data.
+messages from raw audio data.pip3 install --upgrade tensorflow
+
+## install the following
+    $ pip3 install --upgrade tensorflow
 
 Currently two of the Python scripts are useful:
 
