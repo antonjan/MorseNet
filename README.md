@@ -16,7 +16,9 @@ generating data for training/validation.
 
 For command line usage, issue: 
 
-    $ ./generate_wav_samples.py --help"
+    $ ./generate_wav_samples.py --help
+    $ mkdir cw_wav_files
+    & python3 ./generate_wav_samples.py  cw_wav_files 300
 
 ## tensorflow_lstm_ctc_train.py
 
